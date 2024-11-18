@@ -1,6 +1,6 @@
 # App Information
 
-**App Name:** Home Home Design: Home Decor Game  
+**App Name:** Not Identified Yet, It is an Ai Plant Identifier App
 **Status:** Currently under development  
 
 ## About Me
@@ -10,4 +10,4 @@ I am an individual developer working on a mobile game application. I currently d
 This page is for sharing my app's development progress and providing required information for services like AppLovin.
 
 ## Contact Information
-For inquiries, please contact me at [your email].
+For inquiries, please contact me at oluavininfo@gmail.com.
